@@ -1,10 +1,6 @@
 import React ,{Component} from 'react'
 
 class QuizQuestion extends Component {
-  // constructor() {
-  //
-  // }
-
   render(){
     return (
       <main>
